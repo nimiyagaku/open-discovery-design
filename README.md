@@ -203,6 +203,8 @@ Reality
 
 CandidateとPrincipleを区別した要約、弱い仮定の批判、自分のProjectへForkする際の再検証点などをAIに尋ねられます。
 
+AI Reading Guideでは、単なるReading Orderだけでなく、**Status・Uncertainty・Contradictionを保ち、SourceとInferenceを混同せず、ODD自体も誤り得るものとして読むためのInterpretation Protocol**を試しています。
+
 → [AI Reading Guide](./ai-reading-guide/README.md)
 
 ## 分岐・改変歓迎です

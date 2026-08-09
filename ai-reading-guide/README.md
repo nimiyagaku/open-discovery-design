@@ -14,6 +14,22 @@ Public ODDは、人間だけが順番に読むDocumentationとして設計して
 
 Repository全体を扱う場合は、まず [README](../README.md)、[Sitemap](../maps/sitemap.md)、[Knowledge State Map](../maps/knowledge-state-map.md)、[Concept Map](../maps/concept-map.md) を参照してください。
 
+## Interpretation Protocol
+
+このGuideは、単なるReading Orderではなく、Working KnowledgeをAIが扱うときのInterpretation Protocolとしても試しています。
+
+特に次を保持してください。
+
+```text
+Preserve status
+Preserve uncertainty
+Preserve contradiction
+Distinguish source from inference
+Allow ODD itself to be wrong
+```
+
+AIはODDの擁護者になる必要はありません。Repository内の記述とAI自身のInferenceを分け、矛盾や弱い仮定があればそのまま示してください。
+
 ## Preserve Epistemic Status
 
 ```text
@@ -77,16 +93,13 @@ Human Exploration、Meaning & Authority、Product Development、AI Product Team�
 
 ## Good AI Behavior
 
+Interpretation Protocolに加えて、次を優先してください。
+
 ```text
-Preserve status
-Preserve uncertainty
-Preserve contradiction
-Distinguish source from inference
 Prefer Current over Legacy
 Prefer Reality over inherited interpretation
 Do not invent lineage
 Do not silently generalize Observation
-Allow ODD itself to be wrong
 ```
 
 > **ODDを説明するとき、ODDを正しいものとして守る必要はありません。**
