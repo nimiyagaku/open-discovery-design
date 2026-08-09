@@ -121,6 +121,8 @@ Role、Process、Guardrail、Firewallのどれとして実装するかは未解�
 
 ## Related Concepts
 
-Multi-agent Systems、Separation of Concerns、Independent Review、Context Engineering、Distributed Cognitionなどは理解の足場になり得ます。
+Distributed Cognition、Boundary Objects、Cognitive Offloading、Context Engineering、Separation of Concerns、Independent Reviewなどは理解の足場になり得ます。
 
 > **Related ≠ Equivalent ≠ Derived From**
+
+→ [Related Concepts](../related-concepts/README.md)

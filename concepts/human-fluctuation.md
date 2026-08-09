@@ -43,4 +43,6 @@ Humanが変化するからといって、すべてを無秩序として扱うわ
 
 ## Related Concepts
 
-Motivation、Readiness、Attention、State-dependent behaviorなどはNeighboring Conceptsですが、ODDのHuman Fluctuationと同一ではありません。
+Situated Cognition、Metacognition、Narrative Identity、Motivation / Readiness、State-dependent BehaviorなどはNeighboring Conceptsですが、ODDのHuman Fluctuationと同一ではありません。
+
+→ [Related Concepts](../related-concepts/README.md)

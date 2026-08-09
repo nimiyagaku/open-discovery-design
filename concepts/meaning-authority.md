@@ -60,4 +60,8 @@ HumanがMeaning Authorityを持っていても、Realityを決めることはで
 
 ## Related Concepts
 
-Human-in-the-Loop、Agency、Autonomy、Shared ControlなどはNeighboring Conceptsとして参照できます。ただし同一Conceptではありません。
+Agency、Autonomy、Shared Control、Appropriate Reliance、Human–AI InteractionなどはNeighboring Conceptsとして参照できます。ただし、Meaning Authorityと同一Conceptではありません。
+
+ODDでは特に、Influenceをなくすことより **Meaningを後からRevisionできること** を中心に置いています。
+
+→ [Related Concepts](../related-concepts/README.md)

@@ -61,3 +61,9 @@ IdeasではProduct Owner本人が意識的にUser0 Roleへ切り替え、設計�
 Repositoryは完成したDocumentationだけを置く場所ではなく、Observation、Candidate、Decision、Open Questionを現在のStatus付きで保持するWorking Knowledgeです。
 
 Public ODD自体もExperimentです。
+
+## Related Concepts
+
+Reflective Practice、Research through Design、Action Research、Experimentation、Qualitative Research / Ethnographyなどは理解の足場になり得ます。
+
+→ [Related Concepts](../related-concepts/README.md)

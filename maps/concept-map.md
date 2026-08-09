@@ -146,4 +146,6 @@ Related ConceptsはODDの構成要素として取り込むのではなく、理�
 > **Related ≠ Equivalent ≠ Derived From**  
 > **Similarity is not lineage.**
 
+ODDから外部Knowledgeへ辿るための軽量なBridgeを [Related Concepts](../related-concepts/README.md) に置いています。Concept名から論文・書籍・解説へ進めます。
+
 この5 Lensも最終形ではありません。必要なQuestionに応じてLens自体を増減します。

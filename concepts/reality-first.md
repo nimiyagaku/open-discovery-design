@@ -39,4 +39,8 @@ Provisionalだから無価値なのではなく、Revision可能性を残した�
 
 ## Related Concepts
 
-Situated Cognition、Grounding、Reflective PracticeなどはUseful Lensになり得ます。
+Reflective Practice、Situated Action / Situated Cognition、Sensemaking、Research through Design、Action ResearchなどはUseful Lensになり得ます。
+
+> **Similarity is not lineage.**
+
+→ [Related Concepts](../related-concepts/README.md)

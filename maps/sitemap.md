@@ -40,7 +40,15 @@ User0 ObservationはUser0について起きたことであり、User一般につ
 
 [AI Reading Guide](../ai-reading-guide/README.md) → [Knowledge State Map](./knowledge-state-map.md) → [Forking Guide](../forking/README.md)
 
-## 7. 「まだ答えが出ていないQuestionを見たい」
+## 7. 「ODDと近い既存Conceptを知りたい」
+
+[Related Concepts](../related-concepts/README.md) → 気になるConcept名から外部の論文・書籍・解説へ進めます。
+
+Related ConceptはODDのOriginやInfluenceを自動的に意味しません。
+
+> **Similarity is not lineage.**
+
+## 8. 「まだ答えが出ていないQuestionを見たい」
 
 [AI Product Team](../practices/ai-product-team.md) 内の Future / Open Candidates や、各DocumentのOpen Questionsから入れます。
 
@@ -73,6 +81,9 @@ Open QuestionはDocumentation不足ではなく、**現在の探索地点**と�
 ### Guides
 - [AI Reading Guide](../ai-reading-guide/README.md)
 - [Forking Guide](../forking/README.md)
+
+### References
+- [Related Concepts](../related-concepts/README.md)
 
 ## There Is No Required Reading Order
 

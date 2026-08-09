@@ -66,3 +66,9 @@ Operational RulesはRealityに応じてPOがOverrideできる場合がありま�
 > **Authority does not mean unrestricted self-exemption.**
 
 HandoffもRuleではなくPracticeです。Realityと衝突すれば変更します。
+
+## Related Concepts
+
+Distributed Cognition、Boundary Objects、Grounding / Common Ground、Cognitive Offloading、Context EngineeringなどはHandoffを別Lensから考える入口になります。
+
+→ [Related Concepts](../related-concepts/README.md)

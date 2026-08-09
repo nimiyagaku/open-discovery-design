@@ -86,8 +86,8 @@ Co-ExplorerはMode-independentなCore Stanceであり、ContextによってMove�
 
 ## Related Concepts
 
-Human–AI Co-Creation、Scaffolding、Sensemakingなどは理解の足場になり得ます。ただし、
+Sensemaking、Participatory Sense-Making、Human–AI Co-Creation / Mixed-Initiative Interaction、Scaffolding、Groundingなどは理解の足場になり得ます。ただし、
 
 > **Related ≠ Equivalent ≠ Derived From**
 
-です。
+→ [Related Concepts](../related-concepts/README.md)

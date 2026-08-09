@@ -43,6 +43,7 @@ Ideasの初期には、こんなQuestionがありました。
 ODDを理解するために、最初から全部読む必要はありません。今の興味から入ってください。
 
 - 「ODDって何？」 → [Sitemap](./maps/sitemap.md)
+- ODDと近い既存Conceptを知りたい → [Related Concepts](./related-concepts/README.md)
 - 人とAIがどう一緒に考えるか → [Co-Explorer](./concepts/co-explorer.md)
 - AIが意味へ影響することが気になる → [Meaning Authority](./concepts/meaning-authority.md)
 - AIでProduct Developmentする方法に興味がある → [AI Product Team](./practices/ai-product-team.md)
@@ -194,6 +195,17 @@ Reality
 現在は **Open Discovery Design** という名前を使っています。名称の変化も含め、ODD自体がDevelopmentの中で変化してきたKnowledgeです。
 
 → [Ideas Origin](./cases/ideas-origin.md)
+
+## 外のKnowledgeへ辿る
+
+ODDには、既存の研究・Practiceと近いConceptがあります。ただし、SimilarityだけでODDのOriginやLineageを主張しません。
+
+> **Related ≠ Equivalent ≠ Derived From**  
+> **Similarity is not lineage.**
+
+Public ODDでは網羅的なLiterature Reviewを抱え込むより、まずConceptへの入口を置きます。論文や書籍まで読みたい場合は、そのConceptから辿ってください。AIに比較や代表文献を尋ねても構いません。
+
+→ [Related Concepts](./related-concepts/README.md)
 
 ## AIに読ませてください
 
