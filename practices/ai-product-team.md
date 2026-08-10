@@ -93,20 +93,6 @@ Role Separationは、Product Ownerが異なるCognitive Positionへ移動しや�
 
 この意味で、AI Product Teamは現在、Product Ownerの思考を分散・拡張するだけでなく、**増幅するSystem**としても観察されています。
 
-### Candidate Practice — Stepping Outside the Optimization Game
-
-Roleを分けても、すべてのRoleが「Productを良くする」という同じOptimization Goalを共有している場合、Team全体が同じGameの中に留まることがあります。
-
-現在試しているCandidate Practiceの一つは、Product Ownerとしての通常位置から一時的に離れ、自分・Project・Productを観察対象に回せるCognitive Positionへ移ることです。
-
-Current Implementation Exampleとして **Friend Layer / Friend Role** を試しています。Developer自身が「自分の友達」をRole-playし、AIと一緒にDeveloper、AI Team、Productを茶化したり、面白がったりしながら眺めます。
-
-Friend Roleには、改善、評価、結論、成果物を求める義務を置きません。ObservationをProductへ持ち帰ってもよく、持ち帰らなくてもよい状態を保ちます。
-
-これはIndependent External Perspectiveを得る仕組みではありません。同じHuman–AI Systemの中で、**通常のSelf / Project / Product Boundaryの外側に近いCognitive Positionへ一時的に移るPractice**として扱っています。
-
-→ [Friend Layer Observation](../observations/development/friend-layer.md)
-
 ## Future / Open Candidate — Cognitive Resource Allocator
 
 AIがResearch、Generation、Implementation、Reviewを高速化すると、Human側のDecision CostがBottleneckになり得ます。
