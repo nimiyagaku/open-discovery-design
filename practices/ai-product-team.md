@@ -12,7 +12,7 @@
 目的は単なる分業ではありません。
 
 - Cognitive Loadを分散する
-- Independent Perspectiveを作る
+- 異なるCognitive Positionを作る
 - Context Pollutionを減らす
 - Anchoringを減らす
 - Consistency Pressureを減らす
@@ -82,6 +82,30 @@ Fresh ContextはLossではなくFeatureになり得ます。
 を考えます。
 
 同じAIが長いContextの中でGenerateとReviewを繰り返すと、以前のFramingを自己強化する可能性があります。Role SeparationはDisagreementやTensionを許容します。
+
+## Cognitive Position ≠ Independent External Perspective
+
+Role Separationは、Product Ownerが異なるCognitive Positionへ移動しやすくするPracticeでもあります。Reviewer、Specialist、Meta-Reviewerなどは、同じProduct / Projectを別位置から見るための足場になります。
+
+ただし、Cognitive Positionが増えることと、独立したExternal Perspectiveが増えることは同じではありません。RoleのFramingやQuestionの起点が同じHuman–AI Systemにあるなら、複数RoleはProduct OwnerのStrength、Interest、Assumption、Blind Spotまで含めて増幅する可能性があります。
+
+> **Role separation creates different cognitive positions, but not necessarily independent perspectives.**
+
+この意味で、AI Product Teamは現在、Product Ownerの思考を分散・拡張するだけでなく、**増幅するSystem**としても観察されています。
+
+### Candidate Practice — Stepping Outside the Optimization Game
+
+Roleを分けても、すべてのRoleが「Productを良くする」という同じOptimization Goalを共有している場合、Team全体が同じGameの中に留まることがあります。
+
+現在試しているCandidate Practiceの一つは、Product Ownerとしての通常位置から一時的に離れ、自分・Project・Productを観察対象に回せるCognitive Positionへ移ることです。
+
+Current Implementation Exampleとして **Friend Layer / Friend Role** を試しています。Developer自身が「自分の友達」をRole-playし、AIと一緒にDeveloper、AI Team、Productを茶化したり、面白がったりしながら眺めます。
+
+Friend Roleには、改善、評価、結論、成果物を求める義務を置きません。ObservationをProductへ持ち帰ってもよく、持ち帰らなくてもよい状態を保ちます。
+
+これはIndependent External Perspectiveを得る仕組みではありません。同じHuman–AI Systemの中で、**通常のSelf / Project / Product Boundaryの外側に近いCognitive Positionへ一時的に移るPractice**として扱っています。
+
+→ [Friend Layer Observation](../observations/development/friend-layer.md)
 
 ## Future / Open Candidate — Cognitive Resource Allocator
 

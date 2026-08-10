@@ -56,6 +56,18 @@ IdeasではProduct Owner本人が意識的にUser0 Roleへ切り替え、設計�
 
 → [User0 Selected Observations](../observations/user0/selected-observations.md)
 
+## Changing Cognitive Position Can Create Observation
+
+Observationは、対象を変えるだけでなく、観察するCognitive Positionを変えることでも生じます。
+
+Product Owner、Reviewer、SpecialistなどのRole Switchingは、同じ対象を別位置から見る助けになります。ただしRoleを増やすこと自体がIndependent External Perspectiveを作るわけではありません。
+
+現在のCandidate Practiceでは、Product Owner自身が通常のSelf / Project / Product Roleから一時的に離れ、「自分の友達」という位置をRole-playしてAIと一緒に自分たちを観察しています。軽く茶化せる距離と、興味を持ち続ける近さによって、当事者位置では見えにくいPatternがObservationになる場合があります。
+
+このPracticeはまだ一般化しません。
+
+→ [Friend Layer Observation](../observations/development/friend-layer.md)
+
 ## Documentation Is Working Knowledge
 
 Repositoryは完成したDocumentationだけを置く場所ではなく、Observation、Candidate、Decision、Open Questionを現在のStatus付きで保持するWorking Knowledgeです。
