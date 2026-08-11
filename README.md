@@ -12,9 +12,14 @@ IdeasというProductを、人とAIで実際に作りながら、
 - AIをTeamとして使うとき、RoleやContextをどう分けるか
 - 開発中に生まれたKnowledgeをどう残し、引き継ぎ、公開するか
 
-といったQuestionに向き合う中で、少しずつ析出してきたWorking Knowledgeです。
+といったQuestionに向き合う中で、少しずつ形になってきたWorking Knowledgeです。
 
 > **思想を先に完成させてProductへ適用したというより、Productを作っていたら、思想・設計・チーム・運用が少しずつ析出してきた。**
+
+You probably don't need most of this.
+I do.
+Take what you need.
+
 
 ## ひとつのQuestionから始まった
 
