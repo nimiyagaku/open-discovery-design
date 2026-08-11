@@ -10,15 +10,13 @@ ODDを全部理解してから使う必要はありません。
 
 制作中の意図や判断を知っているAIは、そのContextに引っ張られることがありました。
 
-**Minimum Fork:** [`ai-product-team/`](./ai-product-team/)
-
-最初はBuilder / Reviewerの2 Roleだけで始めます。
-
-Builderは普段どおり制作します。Reviewerは制作とは別Sessionで、最新成果物・最新ドキュメント・レビュー目的・評価に必要な前提を受け取ってレビューします。
+**Minimum Fork:** [`try/fresh-review/`](./try/fresh-review/)
 
 制作途中の全会話や、作者側の長い説明は原則として渡しません。
 
 ただし、Fresh Reviewは「何も知らないレビュー」ではありません。
+
+制作過程の文脈は切りつつ、評価に必要な最新情報は渡します。
 
 > Fresh context does not mean missing context.
 
