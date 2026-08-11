@@ -42,6 +42,7 @@ Ideasの初期には、こんなQuestionがありました。
 
 ODDを理解するために、最初から全部読む必要はありません。今の興味から入ってください。
 
+- 説明より、まず1つ試したい → [Try one ODD failure](./try/README.md)
 - 「ODDって何？」 → [Sitemap](./maps/sitemap.md)
 - ODDと近い既存Conceptを知りたい → [Related Concepts](./related-concepts/README.md)
 - 人とAIがどう一緒に考えるか → [Co-Explorer](./concepts/co-explorer.md)
@@ -66,31 +67,27 @@ Ideas / ODDの開発中には、たとえばこんなFailureが実際に起き�
 
 似たFailureがあれば、ODD全体ではなく、そのケースだけForkして試せます。
 
-→ [`try/`](./try/)
+→ [Try one ODD failure](./try/README.md)
 
-> Try one failure. Fork only what you need.
+> **Try one failure. Fork only what you need.**
 
-### たとえば、AI Teamを最小構成で試す
+### たとえば、Fresh Reviewを1回だけ試す
 
 同じAIに「作る」と「レビューする」を続けて頼むと、制作中の意図や判断Contextに引っ張られ、レビューが作者側へ寄ることがありました。
 
 最初に試せるのは、**制作とレビューのContextを分ける**ことです。
 
-**Minimum Fork:** [`try/ai-product-team/`](./try/ai-product-team/)
+**Minimum Fork:** [`try/fresh-review/`](./try/fresh-review/)
 
-最小構成は2つだけです。
-
-- **Builder** — 作る。必要な制作Contextを持つ。
-- **Reviewer** — 別Sessionで見る。制作過程のContextは原則渡さない。
+制作Sessionとは別Sessionを作り、Reviewerには制作過程の全Contextを原則渡しません。
 
 ただし、Fresh Reviewは「情報を与えないレビュー」ではありません。レビュー対象の**最新成果物・最新ドキュメント・評価に必要な前提**は渡します。
 
-> Fresh context does not mean missing context.
+> **Fresh context does not mean missing context.**
 
 まず1回、いつもの制作Sessionとは別のSessionでレビューして、論点の出方が変わるか観察してみてください。
 
-効いた理由や限界が気になったら、[`practices/ai-product-team.md`](./practices/ai-product-team.md) と [`practices/handoff.md`](./practices/handoff.md) へ進んでください。
-
+継続的にRoleを分けて使いたくなったら、[`try/ai-product-team/`](./try/ai-product-team/) へ広げられます。背景や限界を知りたくなったら、[AI Product Team](./practices/ai-product-team.md) と [Handoff](./practices/handoff.md) へ進んでください。
 
 ## Human-friendly entrances. AI-friendly depth.
 
@@ -255,7 +252,7 @@ Public ODDでは網羅的なLiterature Reviewを抱え込むより、まずConce
 
 CandidateとPrincipleを区別した要約、弱い仮定の批判、自分のProjectへForkする際の再検証点などをAIに尋ねられます。
 
-AI Reading Guideでは、単なるReading Orderだけでなく、**Status・Uncertainty・Contradictionを保ち、SourceとInferenceを混同せず、ODD自体も誤り得るものとして読むためのInterpretation Protocol**を試しています。
+AI Reading Guideでは、単なるReading Orderだけでなく、Status・Uncertainty・Contradictionを保ち、SourceとInferenceを混同せず、ODD自体も誤り得るものとして読むためのInterpretation Protocolを試しています。
 
 → [AI Reading Guide](./ai-reading-guide/README.md)
 
