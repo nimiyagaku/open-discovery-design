@@ -52,6 +52,27 @@ ODDを理解するために、最初から全部読む必要はありません�
 - AIにこのRepositoryを読ませたい → [AI Reading Guide](./ai-reading-guide/README.md)
 - ODDを自分のProjectへ持っていきたい → [Forking Guide](./forking/README.md)
 
+## まず、1つだけ試してみる
+
+ODDを理解してから使う必要はありません。
+
+Ideas / ODDの開発中には、たとえばこんなFailureが実際に起きました。
+
+- AIが質問しすぎて、探索がインタビューになった。
+- 作ったAIにそのままReviewさせたら、作者側のContextに引っ張られた。
+- 良いと思ったRuleを守ったのに、実際の体験が悪くなった。
+- 過去には妥当だった判断を、AIが現在にも適用し続けた。
+- 「なぜそう決めたか」の空白を、AIが綺麗なStoryで補完した。
+
+似たFailureがあれば、ODD全体ではなく、そのケースだけForkして試せます。
+
+→ [`try/`](./try/)
+
+> Try one failure. Fork only what you need.
+
+何が起きたかを見て、理由を知りたくなったらConcept / Practiceへ進んでください。
+
+
 ## Human-friendly entrances. AI-friendly depth.
 
 Public ODDでは、人間とAIが同じRepositoryを別の方法で探索できることを試しています。
