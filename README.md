@@ -70,7 +70,26 @@ Ideas / ODDの開発中には、たとえばこんなFailureが実際に起き�
 
 > Try one failure. Fork only what you need.
 
-何が起きたかを見て、理由を知りたくなったらConcept / Practiceへ進んでください。
+### たとえば、AI Teamを最小構成で試す
+
+同じAIに「作る」と「レビューする」を続けて頼むと、制作中の意図や判断Contextに引っ張られ、レビューが作者側へ寄ることがありました。
+
+最初に試せるのは、**制作とレビューのContextを分ける**ことです。
+
+**Minimum Fork:** [`try/ai-product-team/`](./try/ai-product-team/)
+
+最小構成は2つだけです。
+
+- **Builder** — 作る。必要な制作Contextを持つ。
+- **Reviewer** — 別Sessionで見る。制作過程のContextは原則渡さない。
+
+ただし、Fresh Reviewは「情報を与えないレビュー」ではありません。レビュー対象の**最新成果物・最新ドキュメント・評価に必要な前提**は渡します。
+
+> Fresh context does not mean missing context.
+
+まず1回、いつもの制作Sessionとは別のSessionでレビューして、論点の出方が変わるか観察してみてください。
+
+効いた理由や限界が気になったら、[`practices/ai-product-team.md`](./practices/ai-product-team.md) と [`practices/handoff.md`](./practices/handoff.md) へ進んでください。
 
 
 ## Human-friendly entrances. AI-friendly depth.

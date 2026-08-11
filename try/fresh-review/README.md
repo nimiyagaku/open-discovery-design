@@ -10,6 +10,11 @@
 2. [`REVIEWER.md`](./REVIEWER.md) を渡す。
 3. 成果物・Review目的・必要な評価条件だけを渡す。
 
+Fresh Reviewは「情報を与えないレビュー」ではありません。
+制作過程の文脈は切りつつ、評価に必要な最新情報は渡します。
+
+Fresh context does not mean missing context.
+
 ## Watch
 
 - 指摘の種類や強さが変わるか
