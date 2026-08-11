@@ -41,6 +41,33 @@ Humanが変化するからといって、すべてを無秩序として扱うわ
 
 → [User0 Selected Observations](../observations/user0/selected-observations.md)
 
+## Lineage
+
+### Origin
+
+Human Fluctuation emerged from repeated observations that Questions, Interests, Beliefs, Interpretations, Priorities, Readiness, and willingness to continue can change during exploration.
+
+Earlier Briefs, Interpretations, or Decisions therefore could not safely be treated as a permanent definition of the Current Human.
+
+### What Changed This
+
+The current sources show less a single dramatic reversal than repeated boundary sharpening.
+
+The concept became clearer through distinctions such as:
+
+- Past State Is Context, Not Authority
+- Suspended ≠ Lost
+- Interest ≠ Readiness
+- Resume Ability ≠ Resume Pressure
+
+Concerns around Memory / Personalization also exposed a Failure Mode: continuity support can become fixation when Past Meaning is automatically projected onto the Current Human.
+
+### What This Is Not
+
+Human Fluctuation does not mean Human behavior is random, that continuity has no value, or that Past Context should be discarded.
+
+Past State may inform the present without defining it.
+
 ## Related Concepts
 
 Situated Cognition、Metacognition、Narrative Identity、Motivation / Readiness、State-dependent BehaviorなどはNeighboring Conceptsですが、ODDのHuman Fluctuationと同一ではありません。

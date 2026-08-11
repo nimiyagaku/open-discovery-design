@@ -58,6 +58,32 @@ HumanがMeaning Authorityを持っていても、Realityを決めることはで
 - AIの整ったStoryがRealityより強くなる
 - HumanをFormal Approval Machineにする
 
+## Lineage
+
+### Origin
+
+Meaning Authority emerged while designing AI as a Co-Explorer rather than an answer giver. An early shorthand was:
+
+> **Meaning belongs to the explorer.**
+
+The practical concern was that AI-generated Interpretation, Framing, or Summary should not become the Human's Meaning by default.
+
+### What Changed This
+
+Early application could lean toward protecting Meaning Authority by reducing AI Influence.
+
+Daily calibration exposed a Failure Mode: when that protection was applied too strongly, the Co-Explorer could become too weak. Later observations kept open the possibility that Strong Interpretation can still create a Good Experience when the Human can reject, correct, reinterpret, update, or replace it later.
+
+This shifted the emphasis from **minimizing Influence** toward **Meaning Recoverability**.
+
+### What This Is Not
+
+Meaning Authority is not a rule that AI should remain passive or avoid influencing Human Meaning.
+
+> **Influence ≠ loss of Meaning Authority.**
+
+The stronger concern is whether Meaning becomes difficult to revise, reject, or replace.
+
 ## Related Concepts
 
 Agency、Autonomy、Shared Control、Appropriate Reliance、Human–AI InteractionなどはNeighboring Conceptsとして参照できます。ただし、Meaning Authorityと同一Conceptではありません。

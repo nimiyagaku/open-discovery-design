@@ -49,6 +49,33 @@ HumanのMeaning、AIのInterpretation、Design Decision、Reviewer Judgment、Sy
 
 Provisionalだから無価値なのではなく、Revision可能性を残したまま使います。
 
+## Lineage
+
+### Origin
+
+Reality First did not begin only as a rule for testing Theory.
+
+Early Ideas treated exploration as something that should eventually meet life outside Dialogue: Action, Creation, Product Work, Decision, Behavior, or other Reality where new value can be created.
+
+As Product Development continued, Reality also became the place where Interpretation, Rule, Rubric, and Design Assumption could be revised.
+
+### What Changed This
+
+Repeated calibration made the principle more operational.
+
+A Response can violate a Current Rule and still produce a Good Experience. In that case, the Response should not automatically be corrected to fit the Rule; the Rule / Rubric itself becomes an object of investigation.
+
+Reality First therefore came to apply not only to Human Meaning or Hypothesis, but also to the System that evaluates them.
+
+### What This Is Not
+
+Reality First is not anti-Theory, and it is not a demand for Immediate Action.
+
+It also does not treat Reality only as a judge that confirms or rejects ideas. Reality can be both:
+
+- where exploration creates value
+- where current Interpretation or Design is revised
+
 ## Related Concepts
 
 Reflective Practice、Situated Action / Situated Cognition、Sensemaking、Research through Design、Action ResearchなどはUseful Lensになり得ます。

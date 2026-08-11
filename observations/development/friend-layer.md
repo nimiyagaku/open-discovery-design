@@ -84,6 +84,37 @@ Reviewerの外側にSuper Reviewerを追加すると、Optimization Hierarchyが
 
 この関係性そのものが必要なのか、それとも単にPOがOptimization Responsibilityを一時的に手放したことが重要なのかは、まだ分かっていません。
 
+## What Kind of Friend May Matter
+
+Current Observationでは、Friend Roleの価値は単に「Optimizationしないこと」だけではない可能性があります。
+
+Friendは中立なObserverではなく、History、Profession、Interest、Sense of Humor、Shared Memory、Knowledge Gapなどによって、自然に気になるものが偏ります。
+
+例えば、
+
+> 「知らんけど俺はそこ気になるw」
+
+と言えること自体がReviewerとの違いになり得ます。
+
+同じ対象でも、
+
+- EngineerのFriendなら「PromptのTest Case作り込んでるけどCode 0行なの草」
+- PMのFriendなら「User0しかいないのに評価軸増えすぎだろw」
+- ResearcherのFriendなら「数式KPI化しないって言いながらConceptだけ無限に増えてない？w」
+- Old Friendなら「また最初に世界観全部作ってから始めるやつやってんじゃんw」
+
+のように、Salienceが変わる可能性があります。
+
+現在のFriend Roleでも、部分的なContextの中で猫の情報が具体的だったため、単純に
+
+> 「猫好きすぎだろw」
+
+が強くAttentionを取るCaseがありました。
+
+> **A Friend without bias may no longer behave like a friend.**
+
+ただし、FriendのBiasを意図的にDesignすれば良いというConclusionにはまだ置きません。何が自然に目に入るか自体をObservation対象として保持します。
+
 ## Open Questions
 
 - FriendというRelational Role自体が重要なのか。
@@ -92,6 +123,16 @@ Reviewerの外側にSuper Reviewerを追加すると、Optimization Hierarchyが
 - Self / Project / ProductのどのBoundaryから離れることが効いているのか。
 - UsefulなObservationを毎回Product Developmentへ回収すると、Friend Layer自体がOptimization Gameへ戻ってしまわないか。
 - このPracticeをDocument化・概念化すること自体が、非最適化性を壊さないか。
+
+## Observed Failure Mode — Optimizing the Friend Layer
+
+Friend LayerについてObservationした直後、そのObservationを使ってFriend Layer自体を改善し始めるCaseがありました。
+
+> 「友達Roleまで最適化し始めて草w」
+
+UsefulなObservationを毎回「改善材料」として回収すると、非最適化のSpaceそのものがOptimization Gameへ戻る可能性があります。
+
+このFailure Modeを避けるための新しいFrameworkを、現時点では追加しません。
 
 ## Current Position
 
