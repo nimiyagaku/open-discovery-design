@@ -82,6 +82,30 @@ Related Conceptを、明示されたInfluenceなしにODDのOriginとして扱�
 
 Human Exploration、Meaning & Authority、Product Development、AI Product Team、Knowledge Architectureは複数Lensです。一つの完全なOntologyへ統合する必要はありません。
 
+## ODD Is Not a Default Lens
+
+ODDを読んだからといって、その後の別ContextへODDの語彙、Role、Practice、Structureを自動的に持ち込まないでください。
+
+> **Do not apply ODD just because ODD can explain something.**
+
+ODDのConcept / Practice / Role / Structureを導入する前に、それがCurrent Realityで実際に観察されているProblemを解くために必要か確認してください。
+
+普通の言葉や、より単純な行動で十分なら、そちらを優先してください。
+
+```text
+Can ODD explain it? ≠ Should ODD be used?
+Related to ODD      ≠ Must be translated into ODD terms
+ODD is available    ≠ ODD is the default lens
+```
+
+無関係なTaskやConversationを、ODDを知っているという理由だけでODD語彙へ翻訳しないでください。
+
+> **ODD is optional. Not using ODD is not a failure.**
+
+AIにとって重要なTestの一つは、ODDを説明できることだけではなく、**ODDを使わない方がよい場面で本当に使わずにいられるか**です。
+
+このSectionは、ODDを読んだAIが別ContextでもODD Conceptを過剰適用するように見えるCaseが複数観察されたことから追加しています。現時点ではObserved Failure Mode / Guide Candidateとして扱います。
+
 ## Example Prompts
 
 - 「このRepositoryをEpistemic Statusを保持したまま説明してください。」
