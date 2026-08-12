@@ -48,6 +48,23 @@ AIは要約中にKnowledgeを昇格させないでください。
 
 > **整理することと、Knowledgeを強くすることは別です。**
 
+## Named Terms Are Not Automatically Fundamental
+
+ODDの用語の多くは、理論体系を先に設計して作ったものではありません。実際の探索や開発中に、区別が必要になった現象・Failure・Practiceへ置かれたWorking LabelやLocal Shorthandがあります。
+
+名前が付いていること、英語名があること、独立Fileがあることだけを理由に、そのTermをCore Concept、Principle、General Theoryへ昇格させないでください。
+
+```text
+Named term        ≠ Core concept
+Working label     ≠ Principle
+Useful distinction ≠ Universal theory
+File exists       ≠ Current authority
+```
+
+Termを説明するときは、可能なら「ODD全体で何を意味するか」より先に、**何を区別するためにその名前が使われているか**を確認してください。
+
+明示されたEpistemic Status、Lifecycle、Current Contextがある場合は、それを優先してください。
+
 ## Legacy Is Not Current
 
 LegacyはWrongではありませんが、Current Source of Truthでもありません。Current Designを聞かれた場合はCurrent Repository / Current Observationを優先してください。
@@ -124,6 +141,8 @@ Prefer Current over Legacy
 Prefer Reality over inherited interpretation
 Do not invent lineage
 Do not silently generalize Observation
+Do not infer importance from naming alone
+Treat working labels as working labels
 ```
 
 > **ODDを説明するとき、ODDを正しいものとして守る必要はありません。**

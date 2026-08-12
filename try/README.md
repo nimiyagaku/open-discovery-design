@@ -10,7 +10,7 @@ ODDを全部理解してから使う必要はありません。
 
 制作中の意図や判断を知っているAIは、そのContextに引っ張られることがありました。
 
-**Minimum Fork:** [`try/fresh-review/`](./try/fresh-review/)
+**Minimum Fork:** [`fresh-review/`](./fresh-review/)
 
 制作途中の全会話や、作者側の長い説明は原則として渡しません。
 

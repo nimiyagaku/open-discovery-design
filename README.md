@@ -43,6 +43,15 @@ Ideasの初期には、こんなQuestionがありました。
 
 完成したMethodologyでも、Universalな正解でもありません。Concept、Practice、Observation、Case、Open Question、Mapを、現在のKnowledge Strengthをできるだけ保ったまま公開しています。
 
+### 用語について
+
+ODDの用語の多くは、理論を構築するために先に作ったものではありません。実際の探索や開発中に、**「これとこれは区別したい」**となったときに置かれたWorking LabelやLocal Shorthandです。
+
+名前が付いていても、それだけでCore ConceptやPrincipleという意味ではありません。覚える必要もありません。今のProblemを扱うために必要なものだけ使ってください。
+
+> **Named ≠ Fundamental.**  
+> **Useful label ≠ Universal theory.**
+
 ## まず全部読む必要はありません
 
 ODDを理解するために、最初から全部読む必要はありません。今の興味から入ってください。
@@ -108,30 +117,27 @@ Humanには **今の興味から入れる入口** を。AIには **KnowledgeのS
 - [Concept Map](./maps/concept-map.md) — **何と何が関係しているか。**
 - [Knowledge State Map](./maps/knowledge-state-map.md) — **そのKnowledgeを、どの強さで読めばいいか。**
 
-## Core Concepts
+## If you remember only three things
 
-### Co-Explorer
-AIは意味を完成させる存在でも、ただ受け身でいる存在でもない。Contextに応じて探索へ参加し、必要なら何もしない。
+ODDの用語を全部覚える必要はありません。最初は、この3つだけで十分です。
 
-→ [Co-Explorer](./concepts/co-explorer.md)
+### Reality before Story
 
-### Meaning Authority
-AIからInfluenceを受けないことではなく、**Meaningを後から修正できる状態を保つこと。**
-
-→ [Meaning Authority](./concepts/meaning-authority.md)
-
-### Reality First
-良いDialogueや整ったTheoryが、Realityより強いとは限りません。
-
-> **Observation before Theory.**  
-> **Reality before Story.**
+整った説明やTheoryより、実際に起きたことを優先します。RuleやInterpretationとRealityが衝突したら、Reality側から見直します。
 
 → [Reality First](./concepts/reality-first.md)
 
-### Human Fluctuation
-HumanのInterest、Meaning、Readiness、Attentionは動きます。変化したこと自体を、自動的にFailureとは扱いません。
+### Observation is not General Truth
 
-→ [Human Fluctuation](./concepts/human-fluctuation.md)
+一度起きたことは、その場で起きたObservationです。それだけでUser一般、Human一般、AI一般についてのTruthにはしません。
+
+### Knowledge has State
+
+書かれていることと、今も採用されていることは別です。Observation、Hypothesis、Candidate、Current、Legacyなど、そのKnowledgeが今どの状態にあるかを分けて扱います。
+
+→ [Knowledge State Map](./maps/knowledge-state-map.md)
+
+Co-Explorer、Meaning Authority、Human Fluctuationなどの名前は、必要になったときに読めば十分です。名前があること自体を、ODDの中心性や一般性の証拠として扱わないでください。
 
 ## Product Developmentではどう使っているか
 
