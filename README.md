@@ -1,5 +1,7 @@
 # Open Discovery Design
 
+*Open Discovery Design — because manually checking everything is annoying.*
+
 **AIと作っていたら、考え方や開発の仕組みまで育ってきた。**
 
 Open Discovery Design（ODD）は、最初から完成したFrameworkとして設計されたものではありません。
@@ -51,6 +53,38 @@ ODDの用語の多くは、理論を構築するために先に作ったもの�
 
 > **Named ≠ Fundamental.**  
 > **Useful label ≠ Universal theory.**
+
+ODDの多くは、立派なTheoryから始まったものではありません。
+
+「これ毎回確認するのだるい」「また同じ失敗してる」「なんでこうなったんだっけ」みたいな、かなり普通の開発上の摩擦から生まれています。名前を付けたのは、その摩擦を毎回ゼロから説明するより、区別して扱った方が楽だったからです。
+
+なので、いくつかの名前には表向きの説明と、かなり素朴な裏側があります。
+
+### ODDの表と裏
+
+**Meaning Authority**  
+表：Meaningの修正可能性をHumanに残す。  
+裏：毎回AIのInterpretationを全文レビューして直すの、だるい。
+
+**Knowledge State**  
+表：KnowledgeのStatusを保持する。  
+裏：昨日のHypothesisを今日のTruthみたいに出してくるの、だるい。
+
+**Fresh Review**  
+表：Contextを分離して、違う認知位置から見る。  
+裏：作った本人みたいな顔したAIにReviewされても困る。
+
+**Handoff**  
+表：必要なKnowledgeを次のRoleへ継承する。  
+裏：毎回ゼロから説明するの、だるい。
+
+**Reality First**  
+表：TheoryやRuleよりRealityを優先する。  
+裏：Rule守って体験壊してるのに「仕様通りです」は知らんw
+
+これらの「裏」は正式なDefinitionではありません。ODDがどんな実務上の摩擦から生まれたかを忘れないための、かなりラフなOrigin Noteです。
+
+> **Most of this started as “this is annoying.”**
 
 ## まず全部読む必要はありません
 

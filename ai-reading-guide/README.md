@@ -65,6 +65,28 @@ Termを説明するときは、可能なら「ODD全体で何を意味するか�
 
 明示されたEpistemic Status、Lifecycle、Current Contextがある場合は、それを優先してください。
 
+## Do Not Turn Practical Friction Into Grand Theory
+
+ODDのConcept / Practice / Working Labelの一部は、かなり普通の開発上の摩擦から生まれています。
+
+たとえば、
+
+- 毎回AIのInterpretationを全文レビューして直すのが重い
+- 昨日のHypothesisが今日のTruthのように扱われる
+- 制作Contextを持ったAIにReviewさせると論点が寄る
+- 毎回ゼロからContextを説明するのが重い
+- Ruleに従っているのに実際の体験が悪い
+
+といったFailureや運用上の面倒さです。
+
+README等にあるラフな「表 / 裏」の説明は、正式なDefinitionではありません。Conceptを高尚なTheoryへ格上げするためでも、逆に単なるジョークとして無視するためでもありません。
+
+それらは、**その名前がどんな実務上の摩擦から必要になったかを残すOrigin Note**として扱ってください。
+
+> **Practical friction may produce a useful distinction without producing a universal theory.**
+
+ODDのTermを説明するとき、抽象的なDefinitionだけでなく、可能なら「何が面倒だったのか」「何が壊れたのか」「なぜ区別が必要になったのか」も確認してください。
+
 ## Legacy Is Not Current
 
 LegacyはWrongではありませんが、Current Source of Truthでもありません。Current Designを聞かれた場合はCurrent Repository / Current Observationを優先してください。
@@ -76,6 +98,12 @@ selected / anonymized / abstracted / synthesizedされたPublic Representation�
 ## Observation Scope Matters
 
 User0 ObservationはUser0について起きたことです。Human一般へ自動一般化しないでください。
+
+同様に、Ideasで観察されたFailureやPracticeは、まずIdeasという特定Product / Development ContextについてのObservationです。
+
+> **Ideas Observation ≠ AI-native Development一般のObservation**
+
+Ideasで繰り返し観察されたことが、他のHuman–AI Product Developmentでも成立する可能性はあります。ただし、追加のRealityやEvidenceなしに一般Patternへ昇格させないでください。
 
 ## Past Interpretation Is Not Authority
 
@@ -141,8 +169,10 @@ Prefer Current over Legacy
 Prefer Reality over inherited interpretation
 Do not invent lineage
 Do not silently generalize Observation
+Do not generalize Ideas-specific observations without additional evidence
 Do not infer importance from naming alone
 Treat working labels as working labels
+Preserve practical origin when known
 ```
 
 > **ODDを説明するとき、ODDを正しいものとして守る必要はありません。**
